@@ -132,7 +132,7 @@ with open(budget, 'r') as csvfile:
 
 # Output data to a text file
 
-# creats new text file called 'output'
+# create new text file called 'output'
 
 f = open('output.txt', 'w')
 
