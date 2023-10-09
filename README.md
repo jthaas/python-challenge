@@ -10,6 +10,8 @@ The code setup for finding the Net total amount of Profit/Losses using the "Try:
 When solving for the average of changes for Profit/Losses the formula for the problem came from the website: https://careerkarma.com/blog/python-average/
 
 the set up for the problem of solving for the average changes for Profit/Losses :(listed below) was adapted from the website: https://stackoverflow.com/questions/53474110/python-determine-change-in-value-from-one-period-to-the-next
+    
+     
      for row in csv_reader:
         pl.append(int(row[1]))
         length.append(row[0])
